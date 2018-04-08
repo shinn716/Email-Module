@@ -1,5 +1,5 @@
 # Email-Module
-First, paste EmailSetting.xml to desktop.  
+First, copy EmailSetting.xml to desktop.  
 <img src="https://github.com/shinn716/Email-Module/blob/master/demo.gif" /></a>  
   
 You can editor SMTP Client, Prot, User, Pass... from xml.  
