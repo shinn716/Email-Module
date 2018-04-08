@@ -1,4 +1,5 @@
 # Email-Module
+  
 First, copy EmailSetting.xml to desktop.  
 <img src="https://github.com/shinn716/Email-Module/blob/master/demo.gif" /></a>  
   
