@@ -23,6 +23,7 @@ You can editor SMTP Client, Prot, User, Pass... from xml.
   
 If you want use gmail, you need turn on the Pop/Post Office Protocol in gamil setting.
 <img src="https://github.com/shinn716/Email-Module/blob/master/Snipaste_2018-04-06_23-53-43.png" /></a>  
+<img src="https://github.com/shinn716/Email-Module/blob/master/Snipaste_2018-04-25_09-40-37.png" /></a>  
   
 Third Party: 
 1. Curved VR Keyboard  
